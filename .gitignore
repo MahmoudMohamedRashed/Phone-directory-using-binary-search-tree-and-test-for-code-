@@ -1,0 +1,6 @@
+build/*
+scratch/*
+compile_commands.json
+
+.ccls-cache/*
+tests/*.out

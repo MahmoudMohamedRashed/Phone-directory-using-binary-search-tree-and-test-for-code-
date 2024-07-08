@@ -1,0 +1,11 @@
+[project-build]
+command=make all
+cow=$(VIM_ROOT)
+
+[project-run]
+command=make run
+cwd=$(VIM_ROOT)
+
+[project-check]
+command=make check
+cwd=$(VIM_ROOT)

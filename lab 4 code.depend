@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1715628582 source:d:\lab4\lab4 2024\lab 4 project\lab 4 code\main.cpp
+	<iostream>
+	<fstream>
+	"phonedirectory.h"
+	"ui.h"
+
+1715626440 d:\lab4\lab4 2024\lab 4 project\lab 4 code\phonedirectory.h
+	<string>
+	"BinarySearchTree.h"
+
+1715628349 d:\lab4\lab4 2024\lab 4 project\lab 4 code\binarysearchtree.h
+	"Exception.h"
+	<iostream>
+	<list>
+	<queue>
+	<string>
+
+1653403987 d:\lab4\lab4 2024\lab 4 project\lab 4 code\ui.h
+	<iostream>
+	<string>
+	"phonedirectory.h"
+	"positionlistutils.h"
+
+1653403999 d:\lab4\lab4 2024\lab 4 project\lab 4 code\positionlistutils.h
+	<iostream>
+	"phonedirectory.h"
+
+1715629046 source:d:\lab4\lab4 2024\lab 4 project\lab 4 code\phonedirectory.cpp
+	"phonedirectory.h"
+
+1715623333 source:d:\lab4\lab4 2024\lab 4 project\lab 4 code\ui.cpp
+	"ui.h"
+
+1715622363 source:d:\lab4\lab4 2024\lab 4 project\lab 4 code\binarysearchtree.cpp
+	"BinarySearchTree.h"
+
+1715624025 d:\lab4\lab4 2024\lab 4 project\lab 4 code\exception.h
+	<string>
+
+1715547948 source:d:\lab4\lab4 2024\lab 4 project\lab 4 code\positionlistutils.cpp
+	"positionlistutils.h"
+
+1715622363 source:c:\users\mahmo\downloads\mahmoud_mohamed_rashed\lab 4 code\binarysearchtree.cpp
+	"BinarySearchTree.h"
+
+1715628349 c:\users\mahmo\downloads\mahmoud_mohamed_rashed\lab 4 code\binarysearchtree.h
+	"Exception.h"
+	<iostream>
+	<list>
+	<queue>
+	<string>
+
+1715624025 c:\users\mahmo\downloads\mahmoud_mohamed_rashed\lab 4 code\exception.h
+	<string>
+
+1715629517 source:c:\users\mahmo\downloads\mahmoud_mohamed_rashed\lab 4 code\phonedirectory.cpp
+	"phonedirectory.h"
+
+1715626440 c:\users\mahmo\downloads\mahmoud_mohamed_rashed\lab 4 code\phonedirectory.h
+	<string>
+	"BinarySearchTree.h"
+
+1715547948 source:c:\users\mahmo\downloads\mahmoud_mohamed_rashed\lab 4 code\positionlistutils.cpp
+	"positionlistutils.h"
+
+1653403999 c:\users\mahmo\downloads\mahmoud_mohamed_rashed\lab 4 code\positionlistutils.h
+	<iostream>
+	"phonedirectory.h"
+
+1715623333 source:c:\users\mahmo\downloads\mahmoud_mohamed_rashed\lab 4 code\ui.cpp
+	"ui.h"
+
+1653403987 c:\users\mahmo\downloads\mahmoud_mohamed_rashed\lab 4 code\ui.h
+	<iostream>
+	<string>
+	"phonedirectory.h"
+	"positionlistutils.h"
+
+1720464448 source:c:\users\mahmo\downloads\mahmoud_mohamed_rashed\lab 4 code\main.cpp
+	<iostream>
+	<fstream>
+	"phonedirectory.h"
+	"ui.h"
+
